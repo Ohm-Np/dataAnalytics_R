@@ -1,4 +1,4 @@
-# forecast.R
+# The script below covers generating  synthetic temperature data, plotting the data, fitting an ARIMA model, forecasting future temperatures, and evaluating the model's performance. 
 
 library("ggplot2")
 library("forecast")
